@@ -9,3 +9,9 @@ spring:
                 enabled: true
                 max-attempts: 5
                 initial-interval: 3s
+    cache:
+        type: redis
+    data:
+        redis:
+            host: localhost
+            port: 6379
