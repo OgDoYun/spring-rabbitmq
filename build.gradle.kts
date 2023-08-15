@@ -27,7 +27,7 @@ jib {
 		image = "openjdk:17"
 	}
 	to {
-		image = "dyson/hello-jib"
+		image = "spring-rabbitmq"
 		tags = setOf("latest")
 
 	}

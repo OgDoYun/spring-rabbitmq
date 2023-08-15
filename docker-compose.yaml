@@ -5,5 +5,5 @@ services:
     environment:
       - RABBITMQ_DEFAULT_PASS=root
       - RABBITMQ_DEFAULT_USER=root
-  spring:
-    image: dyson/hello-jib
+  spring-rabbitmq:
+    image: spring-rabbitmq
