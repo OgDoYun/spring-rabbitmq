@@ -1,4 +1,4 @@
-package com.example.rabbit.cache;
+package com.example.rabbit.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

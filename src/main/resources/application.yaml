@@ -4,6 +4,7 @@ spring:
         port: 5672
         username: user
         password: password
+        routing-key:
         template:
             retry:
                 enabled: true

@@ -1,4 +1,4 @@
-package com.example.rabbit.cache;
+package com.example.rabbit.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.redis.core.RedisTemplate;

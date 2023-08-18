@@ -2,6 +2,8 @@ package com.example.rabbit;
 
 import java.security.NoSuchAlgorithmException;
 import java.util.concurrent.CountDownLatch;
+
+import com.example.rabbit.domain.Hashinator;
 import org.springframework.stereotype.Component;
 
 

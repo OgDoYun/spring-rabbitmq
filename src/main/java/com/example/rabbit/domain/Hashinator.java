@@ -1,4 +1,4 @@
-package com.example.rabbit;
+package com.example.rabbit.domain;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
